@@ -1,2 +1,6 @@
 # discord-grabber-photo
-install bulid 
+install bulid  
+install python 
+c++
+off antiwirus 
+lest go 
